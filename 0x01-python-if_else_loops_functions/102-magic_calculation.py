@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def magic_calculation(a, b, c):
     """THIS FUNCTIONS IS AN INTRODUCTION TO BYTCODE"""
     if a<b:
