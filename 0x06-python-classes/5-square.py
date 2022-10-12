@@ -1,47 +1,60 @@
 #!/usr/bin/python3
+"""Square class to represent a square"""
+
+
 class Square:
-    """ A class that defines a square by its size
     """
-    def __init__(self, size=0):
-        """ Method to initialize the square object
+    Defines a Square and its basic properties
+    >>> square_1 = Square()
+    >>> square_2 = Square(7)
+    """
+
+    def __init__(self, size=0) -> None:
         """
-        if not isinstance(size, int):
+        Innitialize the size of the square. the size can be specified.
+        If they are not, the size defaults to 0
+        :param size: int size of square ( > 0)
+        """
+        if (type(size) is not int):
             raise TypeError("size must be an integer")
         elif size < 0:
             raise ValueError("size must be >= 0")
-        else:
-            self.__size = size
 
-    def area(self):
-        """ Method that returns the square are of the object
-        """
-        return (self.__size ** 2)
+        self.__size = size
 
     @property
-    def size(self):
-        """ Method to returns the size value
+    def size(self) -> int:
+        """
+        Retrieve the instance attribute size
+        :return: the size of the square
         """
         return self.__size
 
     @size.setter
-    def size(self, value):
-        """ Method to set the size value of the square object
+    def size(self, value: int) -> None:
         """
-        if not isinstance(value, int):
+        Set the value of the size
+        :param: int size
+        """
+        if (type(value) is not int):
             raise TypeError("size must be an integer")
-        elif value < 0:
+        elif (value < 0):
             raise ValueError("size must be >= 0")
-        else:
-            self.__size = value
+        self.__size = value
 
-    def my_print(self):
-        """ Method that prints a # square according
-        to the size value
+    def area(self) -> int:
         """
-        if not self.__size:
+        Calculates and returns the area of the square
+        :return: the area of the square
+        """
+        return self.__size ** 2
+
+    def my_print(self) -> None:
+        """
+        Print to the stdout '#' * size
+        """
+        if self.__size == 0:
             print()
         else:
             for i in range(self.__size):
-                for j in range(self.__size):
-                    print("#", end='')
-                print()
+                print("#" * self.__size)
