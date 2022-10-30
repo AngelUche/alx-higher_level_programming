@@ -6,7 +6,7 @@ The AirBnB project is a big part of the Higher level curriculum. This project wi
 
 In this project, you will review everything about Python:
 
-    Import
+    -Import
     Exceptions
     Class
     Private attribute
