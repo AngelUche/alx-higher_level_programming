@@ -27,7 +27,7 @@ In this project, you will review everything about Python:
    #**Resources**
 
 **Read or watch:**
-    [args/kwargs](https://alx-intranet.hbtn.io/rltoken/7gc6UzxSL81HcuAwklUbuQ)
+   [args/kwargs](https://alx-intranet.hbtn.io/rltoken/7gc6UzxSL81HcuAwklUbuQ)
     
    [JSON encoder and decoder](https://alx-intranet.hbtn.io/rltoken/rGVU9mt57rVURGnjK6n4_Q)
    
