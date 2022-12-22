@@ -67,7 +67,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
     All your files should end with a new line
     The first line of all your files should be exactly #!/usr/bin/node
     A README.md file, at the root of the folder of the project, is mandatory
-    Your code should be semistandard compliant. [Rules of Standard](https://alx-intranet.hbtn.io/rltoken/CAKkGG6pUDtpu3T2rn4MXw) + [semicolons on top](https://alx-intranet.hbtn.io/rltoken/oc1-9XTUtCiIyZkdAFvoUQ). Also as reference: [AirBnB style](https://alx-intranet.hbtn.io/rltoken/JvqqQQrEPtGjP-57CZSEaQ)
+  Your code should be semistandard compliant. [Rules of Standard](https://alx-intranet.hbtn.io/rltoken/CAKkGG6pUDtpu3T2rn4MXw) + [semicolons on top](https://alx-intranet.hbtn.io/rltoken/oc1-9XTUtCiIyZkdAFvoUQ). Also as reference: [AirBnB style](https://alx-intranet.hbtn.io/rltoken/JvqqQQrEPtGjP-57CZSEaQ)
     All your files must be executable
     The length of your files will be tested using wc
     You are not allowed to use var
