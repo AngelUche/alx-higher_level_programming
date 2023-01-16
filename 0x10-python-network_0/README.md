@@ -7,12 +7,13 @@ BashPythonScriptingBack-endAPI
     will be released at Jan 16, 2023 11:00 AM
     An auto review will be launched at the deadline
 
-Resources
+# Resources
 
-Read or watch:
+**Read or watch:**
 
    [HTTP (HyperText Transfer Protocol)](https://intranet.alxswe.com/rltoken/rAon_EpQ6PGl8N0plySn4A) (except: “TRACE” Request Method, “CONNECT” Request Method, Language Negotiation and “Options MultiView” and Character Set Negotiation)
-   [HTTP Cookies](https://intranet.alxswe.com/rltoken/MhVCl_0oviQldWPn5oX-NQ)
+ 
+ [HTTP Cookies](https://intranet.alxswe.com/rltoken/MhVCl_0oviQldWPn5oX-NQ)
 
 # Learning Objectives
 
@@ -20,26 +21,43 @@ At the end of this project, you are expected to be able to [explain to anyone[(h
 # General
 
    What a URL is
+   
    What HTTP is
+   
    How to read a URL
+   
    The scheme for a HTTP URL
+   
    What a domain name is
+   
    What a sub-domain is
+   
    How to define a port number in a URL
+   
    What a query string is
+   
    What an HTTP request is
+   
    What an HTTP response is
+   
    What HTTP headers are
+   
    What the HTTP message body is
+   
    What an HTTP request method is
+   
    What an HTTP response status code is
+   
    What an HTTP Cookie is
+   
    How to make a request with cURL
+   
    What happens when you type google.com in your browser (Application level)
 
 # Copyright - Plagiarism
 
   You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
+  
   You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
     
   You are not allowed to publish any content of this project.
@@ -47,6 +65,7 @@ At the end of this project, you are expected to be able to [explain to anyone[(h
   Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
 # Requirements
+
 **General**
 
    Allowed editors: vi, vim, emacs
