@@ -36,10 +36,10 @@
 
 [JQuery Ajax](https://intranet.alxswe.com/rltoken/rBZyrXxuRuISDfPBzO9Y7Q)
 
-#Learning Objectives
+# Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-#General
+# General
 
 Why JQuery make front-end programming so easy (don’t forget to tweet today, with the hashtag #ilovejquery :))
 
@@ -73,8 +73,8 @@ You are not allowed to publish any content of this project.
 
 Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
-#Requirements
-#General
+# Requirements
+# General
 
 Allowed editors: vi, vim, emacs
 
@@ -92,5 +92,5 @@ You are not allowed to use var
 
 HTML should not reload for each action: DOM manipulation, update values, fetch data…
 
-#More Info
+# More Info
 # Import JQuery
